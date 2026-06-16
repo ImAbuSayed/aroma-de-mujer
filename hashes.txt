@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aroma de mujer
+
+This log tracks the cryptographic history and versioning for the song **Aroma de mujer** (aroma-de-mujer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T23:00:14.658760 | `v1` | `994b222daa36b5f5f034736894582cc2e5780591de12d26b0a81ee3c148fbdbb` | `8f1cc4449bc3a19f50a91a34fcb8c25fc5a0569b293886ab1c052669b8a50e89` | `2026-06-16_aroma-de-mujer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
