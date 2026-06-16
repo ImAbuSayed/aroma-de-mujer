@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-mujer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Aroma de mujer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-mujer/) |
+| **Get License** | [Request Licensing for Aroma de mujer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-mujer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese aroma de mujer que me tiene volando
+> Tus ojitos en la disco me están provocando
+> Baby, tú eres mi adicción, te sigo buscando
+> En la noche de Madrid, los dos perreando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
